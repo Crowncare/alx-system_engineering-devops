@@ -1,2 +1,2 @@
 #!/bin/bash
-no permission
+chmod 007 hello
