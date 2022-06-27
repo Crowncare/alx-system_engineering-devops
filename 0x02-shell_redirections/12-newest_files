@@ -1,2 +1,2 @@
 #!/bin/bash
-make way
+ls -1t | head -10
