@@ -1,2 +1,2 @@
 #!/bin/bash
-charpte
+grep -v "bin" /etc/passwd

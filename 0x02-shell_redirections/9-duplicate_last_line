@@ -1,2 +1,2 @@
 #!/bin/bash
-cddd
+tail -n 1 iacta >> iacta
