@@ -1,2 +1,2 @@
 #!/bin/bash
-tassk 14
+printf '%x\n' $DECIMAL
