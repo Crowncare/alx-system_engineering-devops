@@ -1,2 +1,2 @@
 #!/bin/bash
-alian ls="rm *"
+echo 'hello $USER"
